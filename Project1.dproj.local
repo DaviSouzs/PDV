@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/12/02 08:59:51.810,=C:\Users\DAVI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/02 09:03:23.807,D:\Programação Delphi\PDV\PDV.pas=C:\Users\DAVI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/02 09:03:23.807,D:\Programação Delphi\PDV\PDV.dfm=C:\Users\DAVI\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/12/02 09:03:42.998,D:\Programação Delphi\PDV\Project1.dproj=C:\Users\DAVI\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/12/02 09:16:49.503,D:\Programação Delphi\PDV\uFrmPrincipal.dfm=D:\Programação Delphi\PDV\PDV.dfm</Transaction>
+    <Transaction>2023/12/02 09:16:49.503,D:\Programação Delphi\PDV\uFrmPrincipal.pas=D:\Programação Delphi\PDV\PDV.pas</Transaction>
+  </Transactions>
+</BorlandProject>
