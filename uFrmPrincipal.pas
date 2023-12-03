@@ -4,7 +4,8 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Menus, Vcl.ExtCtrls,uFrmCadastroEmpresa, uFrmCadastroCliente,
+  Vcl.Imaging.jpeg;
 
 type
   TFrmPrincipal = class(TForm)
@@ -20,7 +21,10 @@ type
     Produtos2: TMenuItem;
     Clientes1: TMenuItem;
     Sair1: TMenuItem;
+    bg_Prinicipal: TImage;
     procedure Sair1Click(Sender: TObject);
+    procedure Empresa1Click(Sender: TObject);
+    procedure Clientes1Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -33,6 +37,24 @@ var
 implementation
 
 {$R *.dfm}
+
+
+procedure TFrmPrincipal.Clientes1Click(Sender: TObject);
+begin
+ FrmCadastroCliente := TFrmCadastroCliente.Create(Application);
+ FrmCadastroCliente.ShowModal;
+ FrmCadastroCliente.Free;
+ FrmCadastroCliente := nil;
+end;
+
+procedure TFrmPrincipal.Empresa1Click(Sender: TObject);
+begin
+  if FrmCadastroEmpresa = nil then
+  begin
+     FrmCadastroEmpresa := TFrmCadastroEmpresa.Create(Application);
+  end;
+     FrmCadastroEmpresa.Show;
+end;
 
 procedure TFrmPrincipal.Sair1Click(Sender: TObject);
 begin

@@ -1,11 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2023/12/02 08:59:51.810,=C:\Users\DAVI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/12/02 09:03:23.807,D:\Programação Delphi\PDV\PDV.pas=C:\Users\DAVI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/12/02 09:03:23.807,D:\Programação Delphi\PDV\PDV.dfm=C:\Users\DAVI\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2023/12/02 09:03:42.998,D:\Programação Delphi\PDV\Project1.dproj=C:\Users\DAVI\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2023/12/02 09:16:49.503,D:\Programação Delphi\PDV\uFrmPrincipal.dfm=D:\Programação Delphi\PDV\PDV.dfm</Transaction>
-    <Transaction>2023/12/02 09:16:49.503,D:\Programação Delphi\PDV\uFrmPrincipal.pas=D:\Programação Delphi\PDV\PDV.pas</Transaction>
+	<Transactions>
+    <Transaction>2023/12/02 08:59:51.000.810,=C:\Users\DAVI\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/02 09:03:23.000.807,C:\Users\DAVI\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Programação Delphi\PDV\PDV.dfm</Transaction>
+    <Transaction>2023/12/02 09:03:23.000.807,C:\Users\DAVI\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Programação Delphi\PDV\PDV.pas</Transaction>
+    <Transaction>2023/12/02 09:03:42.000.998,C:\Users\DAVI\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Programação Delphi\PDV\Project1.dproj</Transaction>
+    <Transaction>2023/12/02 09:16:49.000.503,D:\Programação Delphi\PDV\PDV.dfm=D:\Programação Delphi\PDV\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2023/12/02 09:16:49.000.503,D:\Programação Delphi\PDV\PDV.pas=D:\Programação Delphi\PDV\uFrmPrincipal.pas</Transaction>
+    <Transaction>2023/12/03 17:30:42.830,=D:\Programação Delphi\PDV\Unit1.pas</Transaction>
+    <Transaction>2023/12/03 17:31:10.210,D:\Programação Delphi\PDV\uFrmCadastroEmpresa.dfm=D:\Programação Delphi\PDV\Unit1.dfm</Transaction>
+    <Transaction>2023/12/03 17:31:10.210,D:\Programação Delphi\PDV\uFrmCadastroEmpresa.pas=D:\Programação Delphi\PDV\Unit1.pas</Transaction>
+    <Transaction>2023/12/03 18:43:12.907,=D:\Programação Delphi\PDV\Unit1.pas</Transaction>
+    <Transaction>2023/12/03 18:43:36.382,D:\Programação Delphi\PDV\uFrmCadastroCliente.pas=D:\Programação Delphi\PDV\Unit1.pas</Transaction>
+    <Transaction>2023/12/03 18:43:36.382,D:\Programação Delphi\PDV\uFrmCadastroCliente.dfm=D:\Programação Delphi\PDV\Unit1.dfm</Transaction>
   </Transactions>
 </BorlandProject>
